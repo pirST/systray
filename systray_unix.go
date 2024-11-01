@@ -18,7 +18,6 @@ import (
 	"github.com/godbus/dbus/v5"
 	"github.com/godbus/dbus/v5/introspect"
 	"github.com/godbus/dbus/v5/prop"
-
 	"github.com/pirST/systray/internal/generated/menu"
 	"github.com/pirST/systray/internal/generated/notifier"
 )
