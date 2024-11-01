@@ -1,4 +1,4 @@
-module fyne.io/systray
+module github.com/pirST/systray
 
 go 1.19
 
